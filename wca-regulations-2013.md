@@ -4,7 +4,7 @@
 
 
 ## Notes
-
+l
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
@@ -123,8 +123,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-    - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
+- 3l) A puzzle must have exactly zero or one logos. For a puzzle with a logo, it must be located on one of the centre pieces.
+    - 3l1) All logos must not be physically detachable from the sticker or tile it is on.
+    - 3l2) Colourless engravings (max. 1 per face) are not considered logos.
+    - 3l3) Exception: Two logos are permitted on the Square-1, as long as they are both located on the equatorial parts of the right and left faces.
+    - 3l4) Exception: No logos are permitted on the 2x2x2 cube, Pyraminx, and Clock.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
