@@ -4,7 +4,7 @@
 
 
 ## Notes
-l
+
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
@@ -127,7 +127,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3l1) All logos must not be physically detachable from the sticker or tile it is on.
     - 3l2) Colourless engravings (max. 1 per face) are not considered logos.
     - 3l3) Exception: Two logos are permitted on the Square-1, as long as they are both located on the equatorial parts of the right and left faces.
-    - 3l4) Exception: No logos are permitted on the 2x2x2 cube, Pyraminx, and Clock.
+    - 3l4) Exception: No logos are permitted on the 2x2x2 cube and Pyraminx.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
