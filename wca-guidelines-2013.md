@@ -59,6 +59,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3j+) [CLARIFICATION] Puzzles should be made of consistent materials. In particular, the center pieces of NxNxN puzzles should be the same color as the other pieces. Exceptions are allowed if they do not provide any advantage in distinguishing pieces (e.g. all centers of black plastic and all other pieces of white plastic), at the discretion of the Delegate.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
