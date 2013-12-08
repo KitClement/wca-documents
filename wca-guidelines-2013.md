@@ -59,6 +59,9 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3l+) [CLARIFICATION] At all points during the operation of a puzzle, a logo must not provide any observable characteristics (e.g. look or feel) that can help deduce additional information about the puzzle (such as the identity of a piece). This includes any angle, any state, and any point while performing a move. In particular, this means a logo is only allowed on the following puzzles: 3x3x3/5x5x5/7x7x7 (on the unique central piece of one side), Megaminx/Skewb (on the center of one side), and Square-1 (on one of the stickers on the middle slice).
+- 3l++) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat). Unconventional logos are only permitted at the discretion of the Delegate.
+- 3l1+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted. Similarly, transparent overlay stickers are not permitted.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling

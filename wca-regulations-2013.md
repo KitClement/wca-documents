@@ -123,8 +123,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-    - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
+- 3l) A cube puzzle may have a logo, but it must have at most one logo. The logo must be placed in such a way that it does not give any advantage during the attempt (e.g. distinguishing a piece from some angles, or revealing additional information about the state).
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
