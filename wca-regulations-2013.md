@@ -321,10 +321,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
     - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12g) Notation for Clock:
-    - 12g1) The puzzle is oriented with twelve on top, and either side in front.
+    - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-    - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+    - 12g4) Turn around the puzzle so that 12 o'clock is still on top, and then move all pins down: y2.
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
