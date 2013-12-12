@@ -52,10 +52,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Competitors must be available for judging, if needed by organisation team. A legitimate reason (e.g. being unfamiliar with the puzzle(s)), at the discretion of the WCA Delegate, must be given for competitors to be dismissed from judging. Penalty: disqualification from the competition.
+    - 1e2) Competitors must be available for judging, if needed by the organisation team. A legitimate reason (e.g. being unfamiliar with the puzzle(s)), at the discretion of the WCA Delegate, must be given for competitors to be dismissed from judging. Penalty: disqualification from the competition.
 - 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
     - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-    - 1f2) Competitors must be available for scrambling, if needed by organisation team. A legitimate reason (e.g. being unfamiliar with scrambling notation(s)), at the discretion of the WCA Delegate, must be given for competitors to be dismissed from scrambling. Penalty: disqualification from the competition.
+    - 1f2) Competitors must be available for scrambling, if needed by the organisation team. A legitimate reason (e.g. being unfamiliar with scrambling notation(s)), at the discretion of the WCA Delegate, must be given for competitors to be dismissed from scrambling. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
@@ -88,7 +88,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
     - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-    - 2j2) If a competitor is disqualified while an event event is taking place, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
+    - 2j2) If a competitor is disqualified while an event is taking place, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
 - 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
