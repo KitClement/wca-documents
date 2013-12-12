@@ -123,7 +123,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A puzzle must have exactly zero or one logos. For a puzzle with a logo, it must be located on one of the centre pieces.
+- 3l) A puzzle must have exactly zero or one logos. The logo must be placed in such a way that it does not give any advantage during the attempt (e.g. distinguishing a piece from some angles, or revealing additional information about the state).
     - 3l1) All logos must not be physically detachable from the sticker or tile it is on.
     - 3l2) Colourless engravings (max. 1 per face) are not considered logos.
     - 3l3) Exception: Two logos are permitted on the Square-1, as long as they are both located on the equatorial parts of the right and left faces.
