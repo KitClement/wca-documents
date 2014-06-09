@@ -62,6 +62,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted.
+- 3j++) [CLARIFICATION] On Clock, pins must not be identifiable from any other pin of the same side.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the coloured part clearly recognisable. Unconventional logos are only permitted at the discretion of the Delegate.
 
@@ -121,6 +122,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
 
 - 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
+- 10h1+) [ADDITION] The solved state of Clock is not affected by loose or popped pin caps.  
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
