@@ -312,6 +312,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
     - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
+        - 12c3a) A valid state of the puzzle is when a "/" move can be performed.
+    - 12c4) Turning the upper or bottom layers such that a new valid state is created is counted as 1 move.
 - 12d) Notation for Megaminx (scrambling notation only):
     - 12d1) Face Moves:
         - 12d1a) Clockwise, 72 degrees: U (upper face).
@@ -494,6 +496,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
+
+## <article-I><square-1><square1solving> Article I: Square-1 Solving
+  
+- I1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving).  Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- I2) Inspection:
+    - I2a) The competitor may pick up the puzzle during inspection.
+        - I2a1) The competitor must not apply moves [Regulation 12c4](regulations:regulation:12c4) during inspection. Penalty: disqualification of the attempt (DNF).
+        - I2a2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as the competitor aligns to the closest valid state.
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
