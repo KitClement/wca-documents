@@ -491,6 +491,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - I2a) The competitor may pick up the puzzle during inspection.
         - I2a1) The competitor must not apply moves [Regulation 12c4](regulations:regulation:12c4) during inspection. Penalty: disqualification of the attempt (DNF).
         - I2a2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as the competitor aligns to the closest valid state.
+
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
 Organisation teams may adopt optional regulations to facilitate the administration of the competition.
